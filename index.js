@@ -6,7 +6,7 @@
  */
 "use strict";
 
-var _cookieParser = require("cookir-parser");
+var _cookieParser = require("cookie-parser");
 
 var CookieParser = function(akyuu, options) {
     this.akyuu = akyuu;
