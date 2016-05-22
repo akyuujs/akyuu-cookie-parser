@@ -1,0 +1,26 @@
+{
+  "name": "akyuu-cookie-parser",
+  "version": "1.0.0",
+  "description": "Cookie parser for Akyuujs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akyuujs/akyuu-cookie-parser.git"
+  },
+  "keywords": [
+    "cookie",
+    "akyuujs"
+  ],
+  "author": "XadillaX <i@2333.moe>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akyuujs/akyuu-cookie-parser/issues"
+  },
+  "homepage": "https://github.com/akyuujs/akyuu-cookie-parser#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.2"
+  }
+}
